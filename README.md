@@ -2,15 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Naeem</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<img align="right" alt="Developer" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedddev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedddev" /> </p>
 
+- 🎓 BSCS from UET Lahore
+
+- 💻 Flutter Developer
+
 - 🌱 I’m currently learning **Something New**
 
-- 💬 Ask me about **Flutter, Dart**
-
 - 📫 How to reach me **ahmednaeemjbd@gmail.com**
+
+- 📱 (+92) 30 9397 159 5
 
 - ⚡ Fun fact **I think I am funny**
 
