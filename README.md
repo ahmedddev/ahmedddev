@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ahmednaeemjbd@gmail.com**
 
-- 📱 (+92) 30 9397 159 5
+- 📱 (+92) 3093971595
 
 - ⚡ Fun fact **I think I am funny**
 
